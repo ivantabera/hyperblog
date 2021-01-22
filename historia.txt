@@ -5,3 +5,5 @@
 Hola mundo estoy aprendiendo git y github
 
 Hablaremos de esta nueva etapa aprendiendo con Platzi
+
+y la obra maestra que voy a crear con todo esto
