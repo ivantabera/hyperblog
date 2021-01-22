@@ -3,3 +3,5 @@
 -Jorge Luis Borges- ivantabera
 
 Hola mundo estoy aprendiendo git y github
+
+Hablaremos de esta nueva etapa aprendiendo con Platzi
